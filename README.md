@@ -8,6 +8,9 @@
 <a href="https://velog.io/@dltmdgkr" style="display: inline" target="_blank">
     <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Storyblok&logoColor=white" />
 </a>
+<a href="mailto:lseunghak1301@gmail.com" style="display: inline" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
+</a>
 
 <br>
 <br>
